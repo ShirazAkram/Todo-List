@@ -1,0 +1,68 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(255, 228, 196, 0.418);
+}
+
+h1 {
+    color: #27aedb;
+    text-align: center;
+    margin: 10px;
+}
+    
+
+button{
+    
+    background-color:#0a0a23e7;
+    color: #fff;
+    border:none;
+    border-radius:10px;
+    width: 80px;
+    height: 30px;
+    margin: 10px;
+    cursor: pointer;
+
+}
+textarea {
+    width: 200px;
+    height: 50px;
+    font-size: large;
+}
+
+.bg-pink{
+	background-color:rgba(255, 192, 203, 0);
+    
+}
+/* .bg {
+    background-image: url(/src/Images/justin-morgan-Hx-4TbpsoIw-unsplash.jpg);
+} */
+
+#main {
+    text-align: center;
+    background-color: antiquewhite;
+    margin-top: 40px;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+
+
+    /* background-image: linear-gradient(rgba(43, 37, 37, 0.445),rgba(43, 37, 37, 0.445)), url(./justin-morgan-Hx-4TbpsoIw-unsplash.jpg); */
+}
+
+
+.list {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+
+#todo-btn-container .edit{
+    margin: 5px;
+    
+}
+
+ul {
+    padding-inline-end: 40px;
+}
+
